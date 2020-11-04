@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/036f043a-0dc9-4d83-bad4-4d2b6801e7f0/deploy-status)](https://app.netlify.com/sites/fervent-yonath-bddb1b/deploys)
