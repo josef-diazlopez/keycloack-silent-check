@@ -2,7 +2,7 @@
 <body>
     <script>
         console.log('inside', window)
-        parent.postMessage('http://localhost:3000', 'http://localhost:3000')
+        parent.postMessage(location.href.replace('https://fervent-yonath-bddb1b.netlify.app', 'http://localhost:3000'), 'http://localhost:3000')
     </script>
 </body>
 </html>
